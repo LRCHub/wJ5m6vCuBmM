@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "Voyage",
+  "base_artist": "幾田りら",
+  "createdAt": "2026-01-04T06:12:14.387913Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bon Voyage (feat. Nina)",
+      "artist": "Deichkind feat. Nina Tenge",
+      "has_synced": true,
+      "path": "select/01_Bon_Voyage_(feat._Nina)_Deichkind_feat._Nina_Tenge.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bon Voyage (feat. Nina)",
+      "artist": "Deichkind",
+      "has_synced": true,
+      "path": "select/02_Bon_Voyage_(feat._Nina)_Deichkind.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Fantastic Voyage",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/03_Fantastic_Voyage_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Wide Awake On the Voyage Home",
+      "artist": "Liam Finn",
+      "has_synced": true,
+      "path": "select/04_Wide_Awake_On_the_Voyage_Home_Liam_Finn.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Voyage Libre",
+      "artist": "Thievery Corporation feat. Lou Lou Ghelickhani",
+      "has_synced": true,
+      "path": "select/05_Voyage_Libre_Thievery_Corporation_feat._Lou_Lou_Ghelickhani.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Voyage Libre",
+      "artist": "Thievery Corporation",
+      "has_synced": true,
+      "path": "select/06_Voyage_Libre_Thievery_Corporation.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "One of These Winters Will Take Me (feat. Bon Voyage Organisation)",
+      "artist": "Cola Boyy",
+      "has_synced": true,
+      "path": "select/07_One_of_These_Winters_Will_Take_Me_(feat._Bon_Voyage_Organisation)_Cola_Boyy.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Voyage Voyage",
+      "artist": "Kate Ryan",
+      "has_synced": true,
+      "path": "select/08_Voyage_Voyage_Kate_Ryan.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Sasha's Voyage of Ima",
+      "artist": "BT",
+      "has_synced": false,
+      "path": "select/09_Sasha's_Voyage_of_Ima_BT.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Voyage",
+      "artist": "Crash Test Dummies",
+      "has_synced": true,
+      "path": "select/10_The_Voyage_Crash_Test_Dummies.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Voyage",
+      "artist": "幾田りら",
+      "has_synced": false,
+      "path": "select/pl_01_Voyage_幾田りら.txt"
+    }
+  ]
+}
